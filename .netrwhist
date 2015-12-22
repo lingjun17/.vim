@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/Users/lingjun'
+let g:netrw_dirhist_2='/Users/lingjun/.vim'
+let g:netrw_dirhist_3='/Users/lingjun/webapps/verylucky.github.io/_layouts'
+let g:netrw_dirhist_4='/Users/lingjun/webapps/verylucky.github.io/_site'
+let g:netrw_dirhist_5='/Users/lingjun/webapps/verylucky.github.io/_site/contact'
+let g:netrw_dirhist_6='/Users/lingjun/webapps'
+let g:netrw_dirhist_7='/Users/lingjun/TEST'
